@@ -22,7 +22,7 @@ config :heat_tags, HeatTagsWeb.Endpoint,
   check_origin: false,
   code_reloader: true,
   debug_errors: true,
-  secret_key_base: "40Nn/ssUPYGxy2H/uWmEj23fZrPTC/QFpTQZWCn+SmDynCF6ma8m0FGNU2ZRvvAc",
+  secret_key_base: "l3IHTMJEa6YTuDBxFG8XI1wVeRmGlFIzdOimGCwpIQJq0kDOpd7jTxXg49ORFIuM",
   watchers: []
 
 # ## SSL Support

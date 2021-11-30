@@ -15,7 +15,7 @@ config :heat_tags, HeatTagsWeb.Endpoint,
   url: [host: "localhost"],
   render_errors: [view: HeatTagsWeb.ErrorView, accepts: ~w(json), layout: false],
   pubsub_server: HeatTags.PubSub,
-  live_view: [signing_salt: "RLNKeC0y"]
+  live_view: [signing_salt: "bKGHKhXH"]
 
 # Configures the mailer
 #

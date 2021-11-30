@@ -7,7 +7,7 @@ defmodule HeatTagsWeb.Endpoint do
   @session_options [
     store: :cookie,
     key: "_heat_tags_key",
-    signing_salt: "MX75HCS5"
+    signing_salt: "yDtfPxqQ"
   ]
 
   socket "/live", Phoenix.LiveView.Socket, websocket: [connect_info: [session: @session_options]]
